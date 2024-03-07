@@ -33,3 +33,5 @@
   <img align="center" width="400" height="300" src="https://wakatime.com/share/@018e1875-f720-41a8-9b8e-ff20b05026cb/02ac6774-59a9-416e-ba58-23520e9278f7.svg" />
 </a></p>
 
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Mushahid-H)](https://git.io/streak-stats)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Mushahid-H&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
