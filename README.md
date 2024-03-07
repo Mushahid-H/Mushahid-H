@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **mushahid.bscssef20@iba-suk.edu.pk**
 
-- ⚡ Fun fact **Nope**
+- ⚡ Fun fact **Did you know? I commit to my code as often as I commit to a good cup of coffee - regularly, with a dash of creativity and a sprinkle of bug-free enthusiasm! ☕💻 #CodingFuel #GitHubExplorer**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
